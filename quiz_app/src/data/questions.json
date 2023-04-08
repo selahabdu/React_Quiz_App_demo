@@ -1,0 +1,32 @@
+[
+  {
+    "title": "'OS' computer abbrebiation usually means ?",
+    "options": [
+      "Order of Significance",
+      "Open Software",
+      "Operating System",
+      "None of these"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "Which motor is not suitable for use as a DC machine?",
+    "options": [
+      "Series motor",
+      "Squirrel cage motor",
+      "Synchronous motor",
+      "None of these"
+    ],
+    "correctOptionIndex": "1"
+  },
+  {
+    "title": "'.INI' extension refers usually to what kind of file? ",
+    "options": [
+      "Image file",
+      "System file",
+      "Hypertext related file",
+      "None of these"
+    ],
+    "correctOptionIndex": "1"
+  }
+]
